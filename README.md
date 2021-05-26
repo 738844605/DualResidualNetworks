@@ -1,3 +1,7 @@
+### Haze removal - 3
+Compare inside-feature maps with transmission map
+![](https://github.com/liu-vis/DualResidualNetworks/blob/master/Figs/OUR.png)
+
 # Dual Residual Networks  
 By [Xing Liu](https://scholar.google.com/citations?user=bdVU63IAAAAJ&hl=en)<sup>1</sup>, [Masanori Suganuma](https://scholar.google.co.jp/citations?user=NpWGfwgAAAAJ&hl=ja)<sup>1,2</sup>, [Zhun Sun](https://scholar.google.co.jp/citations?user=Y-3iZ9EAAAAJ&hl=en)<sup>2</sup>, [Takayuki Okatani](https://scholar.google.com/citations?user=gn780jcAAAAJ&hl=en)<sup>1,2</sup>
 
